@@ -4,9 +4,7 @@ A Fullstack GraphQL Airbnb Clone with React and React Native.
 
 - Branches are in the order they were coded.
 - Watch how this was made: https://www.youtube.com/playlist?list=PLN3n1USn4xlnfJIQBa6bBjjiECnk6zL6s
-- This builds off the GraphQL Typescript Server I made: https://github.com/benawad/graphql-ts-server-boilerplate.
 - You can see the YouTube Playlist for how that was made here: https://www.youtube.com/playlist?list=PLN3n1USn4xlky9uj6wOhfsPez7KZOqm2V
-- Join the Discord: https://discord.gg/Vehs99V
 
 ## Packages
 
@@ -23,13 +21,13 @@ This project is made up of 5 packages that share code using Yarn Workspaces.
 1. Clone project
 
 ```
-git clone https://github.com/benawad/fullstack-graphql-airbnb-clone.git
+git clone https://github.com/olaf1005/fullstack-airbnb-clone.git
 ```
 
 2. cd into folder
 
 ```
-cd fullstack-graphql-airbnb-clone
+cd fullstack-airbnb-clone
 ```
 
 3. Download dependencies
