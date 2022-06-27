@@ -21,7 +21,7 @@ This project is made up of 5 packages that share code using Yarn Workspaces.
 1. Clone project
 
 ```
-git clone https://github.com/olaf1005/fullstack-airbnb-clone.git
+git clone https://github.com/bigstar888/fullstack-airbnb-clone.git
 ```
 
 2. cd into folder
@@ -43,7 +43,7 @@ yarn
 createdb graphql-ts-server-boilerplate
 ```
 
-6. [Add a user](https://medium.com/coding-blocks/creating-user-database-and-adding-access-on-postgresql-8bfcd2f4a91e) with the username `postgres` and and no password. (You can change what these values are in the [ormconfig.json](https://github.com/benawad/graphql-ts-server-boilerplate/blob/master/ormconfig.json))
+6. [Add a user](https://medium.com/coding-blocks/creating-user-database-and-adding-access-on-postgresql-8bfcd2f4a91e) with the username `postgres` and and no password. (You can change what these values are in the [ormconfig.json](https://github.com/bigstar888/graphql-ts-server-boilerplate/blob/master/ormconfig.json))
 
 7. Connect to the database with `psql` and add the uuid extension:
 
@@ -59,7 +59,7 @@ CREATE EXTENSION IF NOT EXISTS "uuid-ossp";
 
 11. Run `yarn build` in `packages/controller`
 
-12. Get Google Maps API key and put it here https://github.com/benawad/fullstack-graphql-airbnb-clone/blob/master/packages/web/public/index.html#L14 Videos doing that: https://youtu.be/-QQnzDVcTCo and https://youtu.be/xLlIgokKiLc
+12. Get Google Maps API key and put it here https://github.com/bigstar888/fullstack-graphql-airbnb-clone/blob/master/packages/web/public/index.html#L14 Videos doing that: https://youtu.be/-QQnzDVcTCo and https://youtu.be/xLlIgokKiLc
 
 
 
